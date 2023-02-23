@@ -41,6 +41,7 @@ XI.   Any man deserting the ship in battle or rewriting history on the
 * **Note to the First mate:** make sure you revise article I of the pirate code
   above, so you get your fair share of the prize!
 
+
 Captain      : Ronan 
-Quartermaster: NAME HERE  
+Quartermaster: Thierry  
 First mate   : NAME HERE  

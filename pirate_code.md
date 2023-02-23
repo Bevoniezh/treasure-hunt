@@ -1,7 +1,7 @@
 # Pirate code
 
 I.    The Captain and Quartermaster to receive two shares of a prize.
-      The First-mate to receive one share of a prize.
+      The First-mate to receive AN EQUAL share of a prize.
 
 II.   Every man has equal title to the fresh provisions, or strong liquors,
       and may use them at pleasure, unless a scarcity makes it necessary, for
@@ -41,7 +41,6 @@ XI.   Any man deserting the ship in battle or rewriting history on the
 * **Note to the First mate:** make sure you revise article I of the pirate code
   above, so you get your fair share of the prize!
 
-
 Captain      : Ronan 
-Quartermaster: Thierry  
-First mate   : NAME HERE  
+Quartermaster: Thierry    
+First mate   : Asensio 
